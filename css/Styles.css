@@ -1,0 +1,58 @@
+body{
+  background-color:#f7e7bd;
+}
+
+h1{
+  color: #c26565;
+}
+h3 {
+  color: #c26565;
+}
+p {
+  color: #56556e;
+}
+li {
+  color: #56556e;
+}
+hr{
+  border-color: #ad9d9d;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 8px;
+
+  width: 5%;
+
+}
+table {
+  color: #56556e;
+}
+
+.photo1{
+  padding-top: 200px;
+  padding-bottom: 70px;
+
+}
+
+.photo2{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.photo3{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.contact{
+  padding-top: 70px;
+  padding-bottom: 60px;
+}
+.ul{
+  text-decoration: none;
+}
+.bravo{
+
+  margin: auto 40%;
+}
+
+.like{
+  margin: 200px 45% auto;
+}
